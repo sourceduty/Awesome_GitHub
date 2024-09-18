@@ -12,7 +12,8 @@ Another trend is the increasing importance of accessibility in markdown files. R
 
 Finally, collaborative documentation in markdown is seeing growing adoption. Tools like GitHub and GitLab support direct in-browser markdown editing, making it easier for contributors to improve documentation without cloning repositories locally. Combined with pull request workflows, markdown documentation has become a dynamic and collaborative asset for repositories, often involving a wide range of contributors. This trend underscores the shift toward viewing documentation as an ongoing, collaborative effort that is integral to a project's lifecycle rather than as a static, post-development task.
 
-<br>
+#
+### Top GitHub Standards
 
 | Standard/Trend                          | Description                             |
 |-----------------------------------------|-----------------------------------------|
