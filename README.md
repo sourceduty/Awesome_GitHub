@@ -45,8 +45,6 @@ The table outlines the top 15 standards and trends in markdown utilization withi
 [GitHub README](https://chat.openai.com/g/g-rA63DaENC-readme)
 <br>
 [Repo Card Generator](https://github.com/sourceduty/Repo_Card_Generator)
-<br>
-[Awesome GitHub](https://github.com/sourceduty/Awesome_GitHub)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
