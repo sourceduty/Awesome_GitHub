@@ -1,4 +1,4 @@
-![Awesome GitHub](https://github.com/user-attachments/assets/eed503f5-5ec2-476a-88fb-9e1d66f8908d)
+![Awesome GitHub](https://github.com/user-attachments/assets/0f71c1a5-a03f-4e4d-9f97-1469f304edfa)
 
 > Repository markdown utilization standards and trends.
 
